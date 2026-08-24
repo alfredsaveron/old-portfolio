@@ -1,13 +1,11 @@
 import * as React from "react";
 import {
   Box,
-  GridItem,
   Heading,
   HStack,
   Img,
   Link,
   SimpleGrid,
-  Stack,
   Tab,
   TabList,
   TabPanel,

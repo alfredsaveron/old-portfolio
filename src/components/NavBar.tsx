@@ -1,6 +1,5 @@
-import { Box, Flex, Heading, HStack, Img, Link, Text } from "@chakra-ui/react";
+import { Box, Flex, Heading, HStack, Img, Link } from "@chakra-ui/react";
 import React from "react";
-import Container from "./Container";
 type Props = {
   location?: string;
 };
