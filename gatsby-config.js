@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://alfs.ga",
+    siteUrl: "https://github.com/alfredsaveron/old-portfolio",
     title: "Alf",
     author: {
       name: `Alfred Saveron`,
     },
-    description: `With this.`,
+    description: `Source code of my old personal website.`,
     social: {
       twitter: `alfredsaveron`,
     },
