@@ -16,18 +16,18 @@ A minimal, light-themed personal portfolio and blog built with **Gatsby v5**, **
 
 ```text
 ├── .github/
-│   └── assets/        # Media and screenshots for README
+│   └── assets/        # Media for README
 ├── content/
-│   └── posts/         # Markdown blog posts categorized by id
+│   └── posts/         # Markdown
 │       └── 1/
 │           └── index.md
 ├── src/
-│   ├── components/    # Reusable UI components
+│   ├── components/    # Components
 │   ├── pages/         # Gatsby page routes (index, 404)
-│   ├── style/         # Global styles
-│   ├── templates/     # Dynamic blog post template
-│   └── theme/         # Custom Chakra UI theme
-└── static/            # Static assets (images, logos, favicon)
+│   ├── style/         # Styles
+│   ├── templates/     # Dynamic blog post
+│   └── theme/         # Chakra UI theme
+└── static/            # Static (images, logos, favicon)
 ```
 
 ### Installation
