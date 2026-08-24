@@ -62,3 +62,7 @@ npm run build
 ```
 
 Production output will be generated inside the `public/` directory.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
