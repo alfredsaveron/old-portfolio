@@ -30,6 +30,8 @@ A minimal, light-themed personal portfolio and blog built with **Gatsby v5**, **
 └── static/            # Static (images, logos, favicon)
 ```
 
+![close-up](.github/assets/closeup.png)
+
 ### Installation
 
 ```bash
