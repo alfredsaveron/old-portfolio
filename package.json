@@ -1,0 +1,52 @@
+{
+  "name": "old-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Old personal portfolio site",
+  "author": "Alf",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "framer-motion": "^11.1.7",
+    "gatsby": "^5.13.7",
+    "gatsby-plugin-catch-links": "^5.13.0",
+    "gatsby-plugin-feed": "^5.13.0",
+    "gatsby-plugin-image": "^3.13.0",
+    "gatsby-plugin-manifest": "^5.13.0",
+    "gatsby-plugin-sharp": "^5.13.0",
+    "gatsby-plugin-sitemap": "^6.13.0",
+    "gatsby-remark-copy-linked-files": "^6.13.0",
+    "gatsby-remark-images": "^7.13.0",
+    "gatsby-remark-prismjs": "^7.13.0",
+    "gatsby-remark-reading-time": "^1.1.0",
+    "gatsby-remark-responsive-iframe": "^6.13.0",
+    "gatsby-remark-smartypants": "^6.13.0",
+    "gatsby-source-filesystem": "^5.13.0",
+    "gatsby-transformer-remark": "^6.13.0",
+    "gatsby-transformer-sharp": "^5.13.0",
+    "prismjs": "^1.29.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@types/node": "^20.12.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "babel-loader": "^8.3.0",
+    "gatsby-core-utils": "^4.16.0",
+    "typescript": "^5.4.5"
+  }
+}

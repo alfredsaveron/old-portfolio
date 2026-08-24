@@ -1,0 +1,30 @@
+html, body {
+  background-color: #ffffff;
+  color: #6b6b6b;
+}
+
+::selection {
+  background: #e4e4e7;
+  color: #1a1a1a;
+  border-radius: 8px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ffffff; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #dcdcdc; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #c0c0c0; 
+}
