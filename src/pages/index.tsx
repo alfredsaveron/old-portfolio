@@ -41,7 +41,7 @@ const IndexPage = ({ data }) => {
               </HStack>
             </Link>
             <Text size="md">
-              21 years old CE student interested in Internet culture, technologies with loves of open-source.
+              21 years old CE student interested in Internet culture, technologies.
             </Text>
           </VStack>
 
@@ -246,7 +246,7 @@ const IndexPage = ({ data }) => {
                 borderBottom="2px solid transparent"
                 _selected={{
                   color: "#1a1a1a",
-                  borderBottomColor: "#94a3b8",
+                  borderBottomColor: "#f4f4f5",
                 }}
                 _focus={{ boxShadow: "none" }}
               >
@@ -260,7 +260,7 @@ const IndexPage = ({ data }) => {
                 borderBottom="2px solid transparent"
                 _selected={{
                   color: "#1a1a1a",
-                  borderBottomColor: "#94a3b8",
+                  borderBottomColor: "#f4f4f5",
                 }}
                 _focus={{ boxShadow: "none" }}
               >
